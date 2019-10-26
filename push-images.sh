@@ -11,5 +11,5 @@ docker push registry.cn-hangzhou.aliyuncs.com/huaicong/$imagename
 
 # push到dockerhub
 docker tag $imagepath csummerwinds/$imagename
-docker push willdockerhub/$imagename
+docker push csummerwinds/$imagename
 done
