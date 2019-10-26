@@ -1,1 +1,2 @@
 docker.io/vmware/harbor-db:v1.2.0
+docker.io/vmware/harbor-jobservice:v1.2.0
