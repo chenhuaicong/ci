@@ -1,2 +1,1 @@
-docker.io/vmware/harbor-db:v1.2.0
-docker.io/vmware/harbor-jobservice:v1.2.0
+quay.io/kiali/kiali-operator:v1.0.0
