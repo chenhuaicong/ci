@@ -1,11 +1,1 @@
-quay.io/prometheus/alertmanager:v0.20.0
-docker.io/istio/citadel:1.4.3
-docker.io/istio/proxyv2:1.4.3
-docker.io/istio/galley:1.4.3
-docker.io/istio/proxyv2:1.4.3
-docker.io/istio/pilot:1.4.3
-docker.io/istio/mixer:1.4.3
-docker.io/istio/sidecar_injector:1.4.3
-docker.io/istio/mixer:1.4.3
-docker.io/jaegertracing/all-in-one:1.14
-quay.io/kiali/kiali:v1.9
+docker.io/openshift/origin-node:v3.11.0
