@@ -1,1 +1,1 @@
-docker.io/openshift/origin-node:v3.11.0
+docker.io/prom/prometheus:v2.14.0
