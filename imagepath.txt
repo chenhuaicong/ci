@@ -1,1 +1,2 @@
-docker.io/prom/prometheus:v2.14.0
+metallb/controller:v0.9.3
+metallb/speaker:v0.9.3
