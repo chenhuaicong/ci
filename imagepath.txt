@@ -1,2 +1,1 @@
-metallb/controller:v0.9.3
-metallb/speaker:v0.9.3
+grafana/grafana:7.0.0
