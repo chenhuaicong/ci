@@ -1,1 +1,1 @@
-gcr.io/heptio-images/ks-guestbook-demo:0.2
+fluent/fluentd-kubernetes-daemonset:v1.13.2-debian-kafka-1.0
